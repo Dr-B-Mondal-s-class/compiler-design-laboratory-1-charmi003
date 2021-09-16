@@ -1,4 +1,5 @@
 LAB 1
+
     PROBLEM 1.1
     Lex Program to determine whether the input stream is a sequence containing only digits or a sequence containing only alphabets
 
