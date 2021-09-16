@@ -1,8 +1,8 @@
 %{
 %}
 
-name [a-zA-Z0-9][a-zA-Z0-9\.\-\_\+]{4,62}[a-zA-Z0-9]
-domain [a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9]
+name [a-zA-Z0-9]{6,64}
+domain [a-zA-Z0-9]{1,253}
 topLevelDomain "com"|"net"|"org"
 email ({name}\@{domain}\.{topLevelDomain})
 

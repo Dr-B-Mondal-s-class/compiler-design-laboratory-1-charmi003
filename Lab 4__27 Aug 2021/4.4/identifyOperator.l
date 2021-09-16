@@ -22,6 +22,10 @@ main()
 				printf("Plus\n");
 			else if(op[0]=='-')
 				printf("Minus\n");
+			if(op[0]=='*')
+				printf("Multiply\n");
+			else if(op[0]=='/')
+				printf("Divide\n");
 			else if(op[0]=='=')
 				printf("Assignment\n");
 				
