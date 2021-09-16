@@ -20,6 +20,7 @@ LAB 1
 
 
 LAB 2
+
     PROBLEM 2.1
     Lex Program to determine if the input stream is a single digit or not
 
@@ -77,6 +78,7 @@ LAB 2
 
 
 Lab 3
+
     PROBLEM 3.1
     Lex Program to find the composition of the input stream in terms of vowels and consonants.
     Check if only vowels present or only consonants present or a mix of both present.
@@ -133,6 +135,7 @@ Lab 3
 
 
 LAB 4
+
     PROBLEM 4.1
     Lex program to identify if the input stream represents a valid keyword in C language.
 
@@ -234,6 +237,7 @@ LAB 4
 
 
 LAB 5
+
     PROBLEM 5.1
     Lex program to count the total number of lexems in the input stream
     
@@ -267,6 +271,7 @@ LAB 5
 
 
 LAB 6
+
     PROBLEM 6.1
     Lex program to determine if the input stream represents a valid mobile number (India).
     Format: +91 xxxxxxxxxx
