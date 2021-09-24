@@ -312,10 +312,54 @@ LAB 6
     PROBLEM 6.3
     Lex program to read input from a file and count the total number of characters present in it.
 
-    Sample file:- sample.txt
+    Sample File:- sample.txt
     qwert 123))) +96|c6&=a !
-    Sample Output 1:-
+    Sample Output:-
     Number of characters:24
+
+
+LAB 7
+
+    PROBLEM 7.1
+    Lex program to count the total number of characters, white spaces, tabs and new lines in the given input file.
+
+    Sample File:-sample.txt
+    ddrt ghy123	ui
+    @@#
+    Sample Output:-
+    Number of characters:15
+    Number of lines:2
+    Number of spaces:2
+    Number of tabs:0
+
+
+
+    PROBLEM 7.2
+    Lex program to count the number of lexems in the given input file.
+
+    Sample File:-sample.txt
+    if(x>=5)
+    y=0;
+    Sample output:-
+    The total number of lexems are:-10
+    No. of Keywords:1
+    No. of Identifiers:2
+    No. of Operators:2
+    No. of Floats:0
+    No. of Integers:2
+    No. of Separators:3
+
+
+
+    PROBLEM 7.3
+    Lex program to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.
+
+    Sample Input File:-input.txt
+    aag  hu7	qwe123   df
+    ## 56
+    Output File:-output.txt
+    aag hu7 qwe123 df ## 56
+
 
 
 
