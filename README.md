@@ -364,7 +364,7 @@ LAB 7
 LAB 8
 
     PROBLEM 8.1
-    Hello World program using Lex and Yacc.
+    Hello World program using Lex and YACC.
 
     Sample Program 1:-
     Input:-
