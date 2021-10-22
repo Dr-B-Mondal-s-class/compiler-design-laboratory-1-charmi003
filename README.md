@@ -361,6 +361,71 @@ LAB 7
     aag hu7 qwe123 df ## 56
 
 
+LAB 8
+
+    PROBLEM 8.1
+    Hello World program using Lex and Yacc.
+
+    Sample Program 1:-
+    Input:-
+    hi
+    Output:-
+    Hello World
+    Input:-
+    bye
+    Output:-
+    Bye World
+
+    Sample Program 2:-
+    Input:-
+    oi
+    Output:-
+    Hello World
+    Input:-
+    tchau
+    Output:-
+    Bye World
+
+
+
+    PROBLEM 8.2
+    Write a program using Lex and YACC to check whether given string is Palindrome or Not
+
+    Sample Input 1:-
+    aaabaaa
+    Sample Output 1:-
+    palindrome
+
+    Sample Input 2:-
+    dawtd
+    Sample Output 2:-
+    Not palindrome
+
+
+LAB 9
+
+    PROBLEM 9.1
+    Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1.
+
+    Sample Input 1:-
+    000101110
+    Sample Output 1:-
+    Sequence Accepted
+
+    Sample Input 2:-
+    1000011111101
+    Sample Output 2:-
+    Sequence Accepted
+
+    Sample Input 3:-
+    01110001
+    Sample Output 3:-
+    Sequence Rejected
+
+
+
+
+
 
 
 
